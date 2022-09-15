@@ -36,7 +36,7 @@ header .container:not(nav), nav.container ul {
 header > .container > * {
     display: flex;
 }
-header div.container, header ul.container, .just-sb {
+header div.container, header ul.container, nav.container ul {
     justify-content: space-between;
 }
 header img {
